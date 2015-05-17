@@ -1,0 +1,13 @@
+[{
+	"name": "list",
+	"template": "list",
+	"interval": 5000,
+	"dataMap": {
+		"list": {
+			"url": "http://www.baidu.com"
+		},
+		"list2": {
+			"url": "http://www.baidu.com"
+		}
+	}
+}]
